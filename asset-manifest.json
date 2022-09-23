@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oyejide-board.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/oyejide-board.github.io/static/js/main.99e62e16.js",
+    "static/js/787.ac34fb11.chunk.js": "/oyejide-board.github.io/static/js/787.ac34fb11.chunk.js",
+    "static/media/logo.svg": "/oyejide-board.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oyejide-board.github.io/index.html",
+    "main.073c9b0a.css.map": "/oyejide-board.github.io/static/css/main.073c9b0a.css.map",
+    "main.99e62e16.js.map": "/oyejide-board.github.io/static/js/main.99e62e16.js.map",
+    "787.ac34fb11.chunk.js.map": "/oyejide-board.github.io/static/js/787.ac34fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.99e62e16.js"
+  ]
+}
