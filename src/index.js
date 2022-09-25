@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Nav from './Nav';
 import reportWebVitals from './reportWebVitals';
-import  Component from './Comp';
+;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Nav />
-    <Component/>
+    
   </React.StrictMode>
 );
 
