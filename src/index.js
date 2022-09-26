@@ -3,13 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Nav from './Nav';
 import reportWebVitals from './reportWebVitals';
-;
+import Rfetch from './Rfetch';
+import Navs from './Navs';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Navs/>
     <Nav />
-    
+    <Rfetch/>
   </React.StrictMode>
 );
 
