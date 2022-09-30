@@ -1,4 +1,4 @@
-{/*import { useReducer } from "react";
+import { useReducer } from "react";
 const Incr = "INCREMENT";
 const Decr = "DECREMENR";
 
@@ -16,6 +16,8 @@ const reducer = (state, action) => {
             count : state.count - 1,
         
         }
+    default :
+    return state
     }
 }
 
@@ -41,5 +43,3 @@ export default function Red () {
         </div>
     )
     }
-
-*/}

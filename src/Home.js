@@ -12,7 +12,7 @@ export default function  Home () {
    
    </div> 
    <div className="w-full md:w-1/2 ">
-    <div className="w-1/2 h-1/2 bg-red-500 mx-auto text-center"></div>
+    <div className="w-1/2 h-1/2 bg-red-500 mx-auto text-center">T</div>
    </div>
    
    </div>)

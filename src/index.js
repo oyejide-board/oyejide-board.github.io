@@ -6,13 +6,16 @@ import reportWebVitals from './reportWebVitals';
 import Rfetch from './Rfetch';
 import Navs from './Navs';
 import Home from './Home';
+import Red from './Red';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navs/>
     <Home/>
-    
+    <Red/>
     <Nav />
     <Rfetch/>
   </React.StrictMode>
