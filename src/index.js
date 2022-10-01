@@ -7,13 +7,14 @@ import Rfetch from './Rfetch';
 import Navs from './Navs';
 import Home from './Home';
 import Red from './Red';
-
+import Framer from './framer';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navs/>
+    <Framer/>
     <Home/>
     <Red/>
     <Nav />
